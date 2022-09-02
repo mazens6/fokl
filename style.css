@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.img1 img{
+    width: 80px;
+    margin-left: 620px;
+}
+
+header{
+    background-color: black;
+}
+
+.img2 img{
+    width: 100%;
+}
+
